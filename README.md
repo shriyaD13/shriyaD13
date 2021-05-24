@@ -9,5 +9,5 @@ Hey There!👋
 📫 How to reach me-
     <br><a href = "https://www.linkedin.com/in/shriya-dixit1308/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40" height="40"></a>
     www.linkedin.com/in/shriya-dixit1308/
-  <br>  <img src="https://www.flaticon.com/svg/vstatic/svg/646/646094.svg?token=exp=1620078787~hmac=eb9c3a90a6bbf50768b73aadba9d7ac2"  width="40" height="40">
+  <br>  <img src="https://png.pngtree.com/element_our/png_detail/20181213/inbox-vector-icon-png_267453.jpg"  width="40" height="40">
 	d.shriya@iitg.ac.in
