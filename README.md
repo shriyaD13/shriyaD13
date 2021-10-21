@@ -4,7 +4,7 @@ Hey There!👋
 			and competetive programming.
 <br><br>
 🌱 I have worked with Node.js,Express,MongoDb,React and python am currently exploring machine learning.
-<br><br>💞️ I’m looking to collaborate on web devlopment and machine learning projects
+<br><br>💞️ I’m looking to collaborate on full stack devlopment and machine learning projects
 <br><br>
 📫 How to reach me-
     <br><a href = "https://www.linkedin.com/in/shriya-dixit1308/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40" height="40"></a>
