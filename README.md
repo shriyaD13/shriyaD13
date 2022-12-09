@@ -1,9 +1,9 @@
 Hey There!👋 
-<br><br> I am Shriya Dixit, an engineering student of Indian Institute of Teachnology, Guwahati.
-			I have a serious passion for development and coding and am also interested in machine learning
+<br><br> I am Shriya Dixit, an engineering student of IIT Guwahati.
+			I have a serious passion for software development and I am also interested in machine learning
 			and competetive programming.
 <br><br>
-🌱 I have worked with Node.js,Express,MongoDb,React and python am currently exploring machine learning.
+🌱 I have worked with Node.js,Express,MongoDb,React and python and I am currently exploring machine learning.
 <br><br>💞️ I’m looking to collaborate on full stack devlopment and machine learning projects
 <br><br>
 📫 How to reach me-
