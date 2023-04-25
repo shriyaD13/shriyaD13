@@ -13,7 +13,7 @@
 
 <samp>
 I am an engineering student at IIT Guwahati, with a serious passion for software development.
-I have interned with Microsoft as a software engineer and have been a mentee at Microsoft's engage program 💻.
+I have interned with Microsoft as a software engineer and I am currently a software developer at Flexday 💻.
 <br>In my free time I love cycling 🚴🏻‍♀️, reading 📚, and listening to music 🎶.
 </samp>
 
