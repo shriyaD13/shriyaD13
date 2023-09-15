@@ -31,9 +31,9 @@ I have interned with Microsoft as a software engineer and I am currently a softw
 <a href= https://www.w3schools.com/html/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
 
-<!-- <br><br>
+<br><br>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyaD13&theme=tokyonight&layout=compact)
-<br> -->
+<br> 
 # Feel Free to connect 🤝
 [![Website Badge](https://img.shields.io/badge/Personal_Website-ff6666?style=flat&logo=GoogleChrome&logoColor=white&link=https://shriyad13.github.io/portfolio/)](https://shriyad13.github.io/portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shriya-dixit1308/)](https://www.linkedin.com/in/shriya-dixit1308/)
